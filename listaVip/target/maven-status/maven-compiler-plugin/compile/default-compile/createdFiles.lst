@@ -1,0 +1,4 @@
+br\com\alura\listaVip\Repository\ConvidadoRepository.class
+br\com\alura\listaVip\Configuracao.class
+br\com\alura\listaVip\model\Convidado.class
+br\com\alura\listaVip\ConvidadoController.class
