@@ -1,4 +1,4 @@
-package br.com.alura.listaVip.Repository;
+package br.com.alura.listaVip.repository;
 
 import java.util.List;
 
