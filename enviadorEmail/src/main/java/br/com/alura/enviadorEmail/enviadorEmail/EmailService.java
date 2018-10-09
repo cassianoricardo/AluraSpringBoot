@@ -14,8 +14,9 @@ public class EmailService {
             Email email = new SimpleEmail();
             email.setHostName("smtp.gmail.com");
             email.setSmtpPort(465);
-            email.setAuthenticator(new DefaultAuthenticator("cassiano.ricardo.da.silva@gmail.com", "thyramno91"));
             email.setSSLOnConnect(true);
+            email.setAuthenticator(new DefaultAuthenticator("cassiano.ricardo.da.silva@gmail.com", "******"));
+           
 
             
             try {
