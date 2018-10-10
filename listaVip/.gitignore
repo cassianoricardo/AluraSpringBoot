@@ -13,7 +13,8 @@
 *.class
 *.properties
 *.jar
-*.lts
+*.lst
+*.original
 
 ### IntelliJ IDEA ###
 .idea
