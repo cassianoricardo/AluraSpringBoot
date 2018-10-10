@@ -12,7 +12,7 @@
 .springBeans
 .sts4-cache
 *.class
-*.properties
+.properties
 *.jar
 *.lst
 *.original
@@ -23,7 +23,7 @@
 *.iws
 *.iml
 *.ipr
-*/target/*
+/target/*
 
 ### NetBeans ###
 /nbproject/private/

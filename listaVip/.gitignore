@@ -11,7 +11,7 @@
 .springBeans
 .sts4-cache
 *.class
-*.properties
+.properties
 *.jar
 *.lst
 *.original
