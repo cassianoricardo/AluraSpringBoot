@@ -9,6 +9,10 @@
 .settings
 .springBeans
 .sts4-cache
+.class
+.properties
+.jar
+.lts
 
 ### IntelliJ IDEA ###
 .idea
