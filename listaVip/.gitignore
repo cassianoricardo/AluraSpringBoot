@@ -1,5 +1,6 @@
-*/target/*
 !.mvn/wrapper/maven-wrapper.jar
+.metadata/
+.recommenders/
 
 ### STS ###
 .apt_generated
@@ -9,16 +10,17 @@
 .settings
 .springBeans
 .sts4-cache
-.class
-.properties
-.jar
-.lts
+*.class
+*.properties
+*.jar
+*.lts
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+*/target/*
 
 ### NetBeans ###
 /nbproject/private/
